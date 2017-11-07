@@ -95,3 +95,12 @@ example, h3 {
 }
 
   /* deleted  "." in front of element */
+
+
+.element2 {
+  background-color: blue;
+  height: 100px;
+  margin: 10px 0; /* added ":" after margin */
+  width: 100%;
+
+}
